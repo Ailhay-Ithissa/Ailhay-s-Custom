@@ -13,7 +13,7 @@ its a bad hodgepodge and I forgot sometimes that I share this
 - Amare v2.0 [NSFW]		https://skins.osuck.net/index.php?newsid=1463
 - Circles are my own but most other elements are taken from another skin. 
 - Cursors labelled "V1 (color)" etc are my own work.
-feel free to use any of my elements just leave a link here if you do please.
+\nfeel free to use any of my elements just leave a link here if you do please.
 
 If I am using elements of your skin and you do not want me to,
 please message me and let me know
