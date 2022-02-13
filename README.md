@@ -3,7 +3,7 @@ my current mix of skins for osu!
 
 Credits, if I missed something please let me know,  
 its a bad hodgepodge and I forgot sometimes that I share this
------------------------------------------------------------------
+
 If I am using elements of your skin and you do not want me to,
 please message me and let me know
 
