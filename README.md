@@ -11,6 +11,7 @@ Credits, if I missed something please let me know, its a bad hodgepodge and I fo
 - Atmosphere 			  	  https://skins.osuck.net/index.php?newsid=630
 - Amare v2.0 [NSFW]		  https://skins.osuck.net/index.php?newsid=1463
 - Azure Snowfall        https://www.reddit.com/r/OsuSkins/comments/rzo4jv/winter_contest_azure_snowfall_stdctb169/
+- 39 https://osu.ppy.sh/community/forums/topics/1573514
 - Circles are my own but most other elements are taken from another skin. 
 - Cursors labelled "V1 (color)" etc are my own work.
 <br /> feel free to use any of my elements just leave a link here if you do please.
