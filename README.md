@@ -8,7 +8,7 @@ Credits, if I missed something please let me know, its a bad hodgepodge and I fo
 - Midnight Cappuccino		https: //www.reddit.com/r/OsuSkins/comments/hji5hd/midnight_cappuccino_sdhd_std_only_169/
 - Taiga Aisaka 			https: //www.reddit.com/r/OsuSkins/comments/oz6fam/ak_taiga_aisaka_std_only169hdsd/
 - -#NumVI#-			https: //www.reddit.com/r/OsuSkins/comments/qix0fp/numvi_std_169_hd_only/
-- Atmosphere 			https: //skins.osuck.net/index.php?newsid=630
+- Atmosphere 			https://skins.osuck.net/index.php?newsid=630
 - Digital Hypno			    https://www.twitch.tv/honmi // https://twitter.com/honmicchi	// https://www.youtube.com/user/DigitalHypno
 - 39 https://osu.ppy.sh/community/forums/topics/1573514
 - Circles/spinner are my own but most other elements are taken from another skin. 
