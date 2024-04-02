@@ -18,5 +18,5 @@ Credits, if I missed something please let me know, its a bad hodgepodge and I fo
 If I am using elements of your skin and you do not want me to, please message me and let me know.
 
 - Twitter:	@Ailhay_
-- Discord:	Ailhay#2654
+- Discord:	@ailhay
 - Email:	Ailhay@Ailhay.com
