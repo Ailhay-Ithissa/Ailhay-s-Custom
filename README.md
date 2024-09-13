@@ -4,6 +4,7 @@ my current mix of skins for osu!
 Credits, if I missed something please let me know, its a bad hodgepodge and I forgot sometimes that I share this.
 
 (most skins only have elements in the "Extras" folder)
+- Mahiru Shiina      https://chino.pages.dev // https://chino.pages.dev/skin/Mahiru.osk
 - Blueberry			https://osu.ppy.sh/community/forums/topics/588355
 - Midnight Cappuccino		https: //www.reddit.com/r/OsuSkins/comments/hji5hd/midnight_cappuccino_sdhd_std_only_169/
 - Taiga Aisaka 			https: //www.reddit.com/r/OsuSkins/comments/oz6fam/ak_taiga_aisaka_std_only169hdsd/
